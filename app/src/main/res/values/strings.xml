@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rifas_Arreola</string>
+    <string name="tv1">Bienvenido!</string>
+    <string name="tv2">Rifas disponibles:</string>
+    <string name="btnAgregarRifa">Agregar rifa</string>
+
+    // activity list_items_rifas
+    <string name="tv1_actListItemsRifas">Título:</string>
+    <string name="tv2_actListItemsRifas">Cantidad Participantes: </string>
+
+    // activity_agregar_rifas
+    <string name="tv1_titulo_activity">Datos de la rifa</string>
+    <string name="h1_titulo">Título:</string>
+    <string name="h2_descripcion">Descripción</string>
+    <string name="btnAgregarRifaDB">Agregar Rifa</string>
+
+    // activity_detalles_ria
+    <string name="tv_titulo">Descripción de la rifa</string>
+    <string name="tv1_detalles_rifa">Título:</string>
+    <string name="tv2_detalles_rifa">Costo del Boleto:</string>
+    <string name="tv3_detalles_rifa">Cantidad de Participantes:</string>
+    <string name="tv4_detalles_rifa">Creado:</string>
+    <string name="tv5_detalles_rifa">Modificado:</string>
+    <string name="btn1_detalles_rifa">Atrás</string>
+</resources>
